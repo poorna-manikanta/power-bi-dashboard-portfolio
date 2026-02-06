@@ -17,7 +17,7 @@ The dashboards focus on KPIs, trends, performance analysis, and decision support
 
 ## Dashboard Gallery
 
-### Portfolio Overview
+### Power BI Dashboard Portfolio
 ![Portfolio](01_portfolio.png)
 
 ### Healthcare Dashboard
