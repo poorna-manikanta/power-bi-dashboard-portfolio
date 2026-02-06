@@ -18,27 +18,27 @@ The dashboards focus on KPIs, trends, performance analysis, and decision support
 ## Dashboard Gallery
 
 ### Portfolio Overview
-![Portfolio](01_Power BI portfolio.png)
+![Portfolio](01_portfolio.png)
 
 ### Healthcare Dashboard
-![Healthcare](02_healthcare_dashboard.png)
+![Healthcare](02_healthcare.png)
 
 ### Sales Performance Dashboard
-![Sales](03_sales_dashboard.png)
+![Sales](03_sales.png)
 
 ### Netflix / OTT Dashboard
-![Netflix](04_netflix_dashboard.png)
+![Netflix](04_netflix.png)
 
 ### Olympic Medals Dashboard
-![Olympics](05_olympic_medals_dashboard.png)
+![Olympics](05_olympic.png)
 
 ### Solar Power Generation Dashboard
-![Solar](06_solar_power_dashboard.png)
+![Solar](06_solar.png)
 
 ### Black Friday Revenue Dashboard
-![BlackFriday](07_black_friday_dashboard.png)
+![BlackFriday](07_black_friday.png)
 
----
+
 
 ## Key Skills Demonstrated
 - KPI design and DAX measures
